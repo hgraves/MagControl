@@ -1,0 +1,45 @@
+Added Component: Designator=U1(PARTICLE_P1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Particle P1"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(CSM-3X)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "ECS Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ECS-160-20-3X-EN-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ECS-160-20-3X-EN-TR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=3V3 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=3V3 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=3V3 Pin=U1-26
+Added Pin To Net: NetName=3V3 Pin=U1-27
+Added Pin To Net: NetName=GND Pin=U1-28
+Added Pin To Net: NetName=RSTn Pin=U1-34
+Added Pin To Net: NetName=GND Pin=U1-37
+Added Pin To Net: NetName=3V3 Pin=U1-38
+Added Pin To Net: NetName=GND Pin=U1-39
+Added Pin To Net: NetName=MAG1 Pin=U1-40
+Added Pin To Net: NetName=MAG2 Pin=U1-41
+Added Pin To Net: NetName=TRST Pin=U1-51
+Added Pin To Net: NetName=TDO Pin=U1-52
+Added Pin To Net: NetName=TDI Pin=U1-53
+Added Pin To Net: NetName=TMS Pin=U1-54
+Added Pin To Net: NetName=TCK Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-59
+Added Pin To Net: NetName=GND Pin=U1-65
+Added Pin To Net: NetName=GND Pin=U1-66
+Added Pin To Net: NetName=GND Pin=U1-67
+Added Pin To Net: NetName=GND Pin=U1-68
+Added Pin To Net: NetName=GND Pin=U1-69
+Added Pin To Net: NetName=GND Pin=U1-70
+Added Pin To Net: NetName=GND Pin=U1-71
+Added Pin To Net: NetName=GND Pin=U1-72
+Added Pin To Net: NetName=GND Pin=U1-73
+Added Pin To Net: NetName=NetC18_2 Pin=Y?-1
+Added Pin To Net: NetName=NetC19_2 Pin=Y?-2
+Added Member To Class: ClassName=SCH_MagControl_Sheet1 Member=Component U1 PARTICLE_P1
+Added Member To Class: ClassName=SCH_MagControl_Sheet2 Member=Component Y? CRYSTAL

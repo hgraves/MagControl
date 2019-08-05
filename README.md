@@ -1,0 +1,3 @@
+MagControl
+
+Magnet Controller Board

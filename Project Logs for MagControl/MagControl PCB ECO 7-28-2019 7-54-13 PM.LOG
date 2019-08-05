@@ -1,0 +1,10 @@
+Added Component: Designator=L1(IND_BOURNS_SRR06)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SRR0604-4R7ML"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Member To Class: ClassName=SCH_MagControl_Sheet1 Member=Component L1 Inductor
+Added Room: Name=SCH_MagControl_Sheet1
+Added Room: Name=SCH_MagControl_Sheet2
